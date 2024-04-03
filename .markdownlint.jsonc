@@ -1,0 +1,15 @@
+{
+    // MD003/heading-style : Heading style : https://github.com/DavidAnson/markdownlint/blob/v0.34.0/doc/md003.md
+    "MD003": {
+        "style": "setext_with_atx"
+    },
+    // MD013/line-length - Line length
+    "MD013": {
+        "line_length": 228,
+        "code_block_line_length": 120
+    },
+    // MD026/no-trailing-punctuation - Trailing punctuation in heading
+    "MD026": false,
+    "punctuation": true,
+    ".,;:!。，；：！？": true
+}
