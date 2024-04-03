@@ -63,9 +63,9 @@ GPL assures that patents cannot be used to render the program non-free.
 
 The precise terms and conditions for copying, distribution and modification follow.
 
-## TERMS AND CONDITIONS
+### TERMS AND CONDITIONS
 
-### 0. Definitions.
+### 0. Definitions
 
 &ldquo;This License&rdquo; refers to version 3 of the GNU General Public License.
 
@@ -102,7 +102,7 @@ licensees may convey the work under this License, and how to view a copy of this
 License. If the interface presents a list of user commands or options, such as a
 menu, a prominent item in the list meets this criterion.
 
-### 1. Source Code.
+### 1. Source Code
 
 The &ldquo;source code&rdquo; for a work means the preferred form of the work for
 making modifications to it. &ldquo;Object code&rdquo; means any non-source form of a
@@ -139,7 +139,7 @@ automatically from other parts of the Corresponding Source.
 
 The Corresponding Source for a work in source code form is that same work.
 
-### 2. Basic Permissions.
+### 2. Basic Permissions
 
 All rights granted under this License are granted for the term of copyright on the
 Program, and are irrevocable provided the stated conditions are met. This License
@@ -541,7 +541,7 @@ a copy of the Program in return for a fee.
 
 END OF TERMS AND CONDITIONS
 
-## How to Apply These Terms to Your New Programs
+### How to Apply These Terms to Your New Programs
 
 If you develop a new program, and you want it to be of the greatest possible use to
 the public, the best way to achieve this is to make it free software which everyone
