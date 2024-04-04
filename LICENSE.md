@@ -161,7 +161,7 @@ with you.
 Conveying under any other circumstances is permitted solely under the conditions
 stated below. Sublicensing is not allowed; section 10 makes it unnecessary.
 
-### 3. Protecting Users' Legal Rights From Anti-Circumvention Law.
+### 3. Protecting Users' Legal Rights From Anti-Circumvention Law
 
 No covered work shall be deemed part of an effective technological measure under any
 applicable law fulfilling obligations under article 11 of the WIPO copyright treaty
@@ -175,7 +175,7 @@ intention to limit operation or modification of the work as a means of enforcing
 against the work's users, your or third parties' legal rights to forbid circumvention
 of technological measures.
 
-### 4. Conveying Verbatim Copies.
+### 4. Conveying Verbatim Copies
 
 You may convey verbatim copies of the Program's source code as you receive it, in any
 medium, provided that you conspicuously and appropriately publish on each copy an
@@ -531,7 +531,7 @@ OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERA
 WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGES.
 
-### 17. Interpretation of Sections 15 and 16.
+### 17. Interpretation of Sections 15 and 16
 
 If the disclaimer of warranty and limitation of liability provided above cannot be
 given local legal effect according to their terms, reviewing courts shall apply local
@@ -592,4 +592,4 @@ proprietary programs. If your program is a subroutine library, you may consider 
 more useful to permit linking proprietary applications with the library. If this is
 what you want to do, use the GNU Lesser General Public License instead of this
 License. But first, please read
-&lt;<http://www.gnu.org/philosophy/why-not-lgpl.html>&gt;.
+&lt;<http://www.gnu.org/philosophy/why-not-lgpl.html>&gt;

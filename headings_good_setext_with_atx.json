@@ -1,5 +1,5 @@
 {
-    "default": true,
+    "default": false,
     "MD003": {
         "style": "setext_with_atx"
     }
