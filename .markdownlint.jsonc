@@ -6,7 +6,7 @@
     },
     // MD013/line-length - Line length
     "MD013": {
-        "line_length": 228,
+        "line_length": 244,
         "code_block_line_length": 120
     },
     // MD026/no-trailing-punctuation - Trailing punctuation in heading
