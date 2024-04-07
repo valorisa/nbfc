@@ -10,7 +10,7 @@
         "code_block_line_length": 120
     },
     // MD026/no-trailing-punctuation - Trailing punctuation in heading
-    "MD026": false,
+    "MD026": true,
     "punctuation": true,
     ".,;:!。，；：！？": true
 }
